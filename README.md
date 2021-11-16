@@ -65,6 +65,8 @@
  * Below is an image of my Data Frame with my findings:
  ![](images/by_school_size.png)
  
+ ### Scores by School Type
+ * The other way that I looked at the data was by school type (Charter or 
  
 
   
