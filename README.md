@@ -45,6 +45,7 @@
  * Having the 9th grade scores as "NaN" for Thomas High School, didn't affect the scores in my analysis, there were just no scores for 9th graders at Thomas High School.
  * Below is a photo of the Data Frame I created for math scores by school by grade (the same type of Data Frame was also created for reading scores).
  * Just note that the scores for 9th grade at Thomas High School have been replaced with nan
+ ![](images/by_grade_math.png)
  
 
 
