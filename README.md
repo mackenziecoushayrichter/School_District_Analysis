@@ -63,6 +63,8 @@
  * Large schools had an overall passing rate of 58% while Small schools had 90% and Medium schools had 91%
  * There was little variance in the rates between Small and Medium Schools, they vaired by at most 1%
  * Below is an image of my Data Frame with my findings:
+ ![](images/by_school_size.png)
+ 
  
 
   
