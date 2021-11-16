@@ -13,4 +13,8 @@
   * The % of Students Passing Math dropped slighty from 75.0 t0 74.8
   * The % of Students Passing Reading dropped slighty from 85.8 to 85.7
   * The % of Students Passing Overall dropped slighty from 65.2 to 64.9
+* Below is an image of the district summary after the 9th grade scores in question were replaced.
+![](images/district_summary.png)
+
+
  
