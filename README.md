@@ -46,7 +46,13 @@
  * Below is a photo of the Data Frame I created for math scores by school by grade (the same type of Data Frame was also created for reading scores).
  * Just note that the scores for 9th grade at Thomas High School have been replaced with nan
  ![](images/by_grade_math.png)
- 
+
+### Scores by School Spending
+ * I group the schools into 4 different spending bin groups based on the amount of money they spent per student. 
+ * I found that even with the 9th grade THS scores as NaN the metrics, this did not change the outcome.  The values stayed the same as the original data.
+ * It was interesting because my findings showed that the schools that spent the least amount per student had the highest rate of overall students passing.
+ * Below is my Data Frame with my findings.
+  
 
 
 
