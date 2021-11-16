@@ -10,7 +10,7 @@
 * Total Schools, Total Students, and Total Budget, Average Reading Score stayed the same.
 * The only changes were:
   * The Average Math Score dropped slighty from 79.0 to 78.9
-  * The % of Students Passing Math dropped slighty from 75.0 t0 74.8
+  * The % of Students Passing Math dropped slighty from 75.0 to 74.8
   * The % of Students Passing Reading dropped slighty from 85.8 to 85.7
   * The % of Students Passing Overall dropped slighty from 65.2 to 64.9
 * Below is an image of the district summary after the 9th grade scores in question were replaced.
@@ -72,7 +72,17 @@
  * District School Scores were very similar to the "Large" schools scores found above.
  * Charter School Scores were very similar to the "Small" and "Medium" school scores found above.
  * Below is an image of the Data Frame with my findings:
+ ![](images/school_type.png)
  
+ ## Summary
+ * Most of my findings above found that once the 9th grade scores from Thomas High School were removed there was little affect on the overall data.
+ * However, there were a few data points that the removal of these scores did affect:
+  * The biggest one was that if you put the 9th grade scores as NaN but did not change the total student count for Thomas High School to only the 10th-12th graders, the scores for Thomas High School fell dramatically.  This is because basically it it counting the whole 9th grade failed.
+  * Overall though, with Thomas High School only counting the 10th-12th graders, the 4 changes to the data that happened were the 4 I mentioned in section 1:
+   1. The Districts overall Average Math Score dropped from 79.0 to 78.9
+   2. The Districts overall % of Students Passing Math dropped slighty from 75.0 to 74.8
+   3. The Districts overall % of Students Passing Reading dropped slighty from 85.8 to 85.7
+   4. The Districts % of Students Passing Overall dropped slighty from 65.2 to 64.9
  
 
   
