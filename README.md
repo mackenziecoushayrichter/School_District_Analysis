@@ -38,5 +38,8 @@
 * Overall the 9th grade scores did not have that much of an affect overall on the results from Thomas High School.  The biggest changes in the data were only 0.3% less students passed reading and passed overall.
 * Below is an image of the Data Frame with a summary of each school in the dataset with the 9th grade scores replaced as "NaN" for Thomas High School.
 
+![](images/school_summary.png)
+
+
 
  
