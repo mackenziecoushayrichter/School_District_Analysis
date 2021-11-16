@@ -52,6 +52,8 @@
  * I found that even with the 9th grade THS scores as NaN the metrics, this did not change the outcome.  The values stayed the same as the original data.
  * It was interesting because my findings showed that the schools that spent the least amount per student had the highest rate of overall students passing.
  * Below is my Data Frame with my findings.
+![](images/per_student_spending.png)
+
   
 
 
