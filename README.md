@@ -66,7 +66,13 @@
  ![](images/by_school_size.png)
  
  ### Scores by School Type
- * The other way that I looked at the data was by school type (Charter or 
+ * The other way that I looked at the data was by school type (Charter or District)
+ * Similar to the Scores by School Spending, and Scores by School Size, having the 9th grade scores from THS as NaN had no affect on the outcomes I found here.
+ * In my findings, Charter schools had overall significantly better passing rates than the District Schools.
+ * District School Scores were very similar to the "Large" schools scores found above.
+ * Charter School Scores were very similar to the "Small" and "Medium" school scores found above.
+ * Below is an image of the Data Frame with my findings:
+ 
  
 
   
