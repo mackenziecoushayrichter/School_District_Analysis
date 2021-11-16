@@ -46,6 +46,8 @@
  * Below is a photo of the Data Frame I created for math scores by school by grade (the same type of Data Frame was also created for reading scores).
  * Just note that the scores for 9th grade at Thomas High School have been replaced with nan
  ![](images/by_grade_math.png)
+ 
+ 
 
 ### Scores by School Spending
  * I group the schools into 4 different spending bin groups based on the amount of money they spent per student. 
@@ -53,6 +55,15 @@
  * It was interesting because my findings showed that the schools that spent the least amount per student had the highest rate of overall students passing.
  * Below is my Data Frame with my findings.
 ![](images/per_student_spending.png)
+
+### Scores by School Size
+ * I also analyzed the data to see the rate of students passing by school size.
+ * Similar to the scores by school spending, having the 9th grade scores from THS as NaN had no affect on the outcomes I found here
+ * In my findings, Large schools (2000-5000 students) had significantly lower overall passing rates than Small and Medium Schools
+ * Large schools had an overall passing rate of 58% while Small schools had 90% and Medium schools had 91%
+ * There was little variance in the rates between Small and Medium Schools, they vaired by at most 1%
+ * Below is an image of my Data Frame with my findings:
+ 
 
   
 
